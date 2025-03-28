@@ -2,7 +2,7 @@
 
 A **simple yet interactive web app** that displays the keys you press in real-time on the screen. Perfect for learning keyboard event handling in JavaScript!  
 
-🎮 **Live Demo:** [Try It Now](keybordkey.netlify.app)  
+🎮 **Live Demo:** [Try It Now](https://keybordkey.netlify.app/)  
 
 ---
 
