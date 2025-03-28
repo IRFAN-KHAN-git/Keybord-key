@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(29, 27, 27);
+}
+#grand-parent{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#parent{
+    
+    align-content: center;
+}
+#child{
+    color: aliceblue;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color ,tr,thbd{ 
+    border: 1px solid white;
+
+}
